@@ -1,4 +1,4 @@
-package mummy.cook.easyCook;
+package mummy.food.easyCook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
